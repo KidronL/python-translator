@@ -1,0 +1,3 @@
+Coding in python is such an interesting experience.
+It is a lot more simple than other languages however extremely powerful due to the flexibility. 
+Overall, I generally like it for scripting, automation, and working with data.
